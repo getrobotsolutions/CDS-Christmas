@@ -257,8 +257,8 @@ function SendEmail()
     // 메일 전송에 필요한 정보
     var addr = message;
     //var addr = "paul@robotaisolutions.com";
-    var subject = "Thanks for visiting Konvey";
-    var body = "Email : " + message;
+    var subject = "Happy Holidays from our Robot";
+    var body = "Happy Holidays from CDS and Advanced Robot Solutions!. Advanced Robot Solutions is a leading provider of robots for trade shows and events. Email info@getrobotsolutions.com for more info.";
     //var mail_server = "smtp.gmail.com";
     //var mail_addr_sender = "ict.muscatairport@gmail.com";
     //var pswd = "123456789K";
